@@ -16,9 +16,9 @@ The project also provides practical insights for stakeholders including UMN (Uni
 ## Dataset
 - NIL Deals: Web-scraped from [NCAA Name, Image, and Likeness News & Data](nilcollegeathletes.com)
 - Clients Provided Performance Data: Includes pre- and post-NIL stats such as:
--- Points, rebounds, assists, steals, blocks, turnovers
--- WS.40, OWS, DWS (Win Share metrics)
--- Minutes played, fouls, field goal attempts/made
+ - Points, rebounds, assists, steals, blocks, turnovers
+ - WS.40, OWS, DWS (Win Share metrics)
+ - Minutes played, fouls, field goal attempts/made
 
 ---
 
