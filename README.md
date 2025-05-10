@@ -25,7 +25,9 @@ The project also provides practical insights for stakeholders including UMN (Uni
 ## Methodology
 ### Difference-in-Differences (DiD) Analysis
 **Goal:** Isolate the causal effect of NIL policy on player performance.
+
 **Metric Used:** WS.40 (Win Shares per 40 minutes)
+
 **Design:**
 - U.S. players = treatment group (NIL policy implemented)
 - Canadian players = control group (no NIL policy)
@@ -36,19 +38,25 @@ DiD Analysis controlled for fixed player-specific characteristics (like talent, 
 
 ### Predictive Modeling (Random Forest)
 **Goal:** Predict which players are more likely to secure NIL deals.
+
 **Model:** Random Forest Classifier
+
 **Performance:** AUC = 0.80
+
 **Key Predictors:**
 - Shooting metrics (FGA, FTA, 3PTA)
 - Minutes played, personal fouls, win shares
+
 **Outcome:** A ranked list of high-potential athletes who haven't yet received deals.
 
 ### Benchmarking Resources
 Compared UMN with peer institutions receiving 4–6 NIL deals.
+
 **Identified gaps in:** 
 - Legal/contract support
 - Entrepreneurship/NIL-related curriculum
 - Brand partnerships
+
 **Recommended building:**
 - NIL course with Carlson School of Management
 - National brand activation support
