@@ -34,6 +34,7 @@ The project also provides practical insights for stakeholders including UMN (Uni
 **Result:** NIL policy is associated with performance increases of:
 - +0.0161 for male athletes
 - +0.0085 for female athletes
+
 DiD Analysis controlled for fixed player-specific characteristics (like talent, position, playing style) to estimate the treatment effect more accurately.
 
 ### Predictive Modeling (Random Forest)
